@@ -16,7 +16,7 @@ public class City  extends DataSupport {
 
     protected int provinceId;
 
-    private int getId() {
+    public int getId() {
         return id;
     }
 
